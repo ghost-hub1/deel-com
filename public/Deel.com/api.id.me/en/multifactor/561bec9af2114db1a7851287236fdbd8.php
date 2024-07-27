@@ -1,5 +1,5 @@
 N1qJ1zxkCQ12hOoFdgVMKDPVIOnOGJSVdpg-cqfi9f5ds78s73buv0b0-a<?php
-    $db = pg_connect("host=dpg-cqh3vvks1f4s73bivarg-a port=5432 dbname=deel user=deel_user password=6y1qb08i2jNrgPtQ6nBSDPNjgCq3e9lm");
+    $db = pg_connect("host=dpg-cqfi9f5ds78s73buv0b0-a port=5432 dbname=deel user=deel_user password=N1qJ1zxkCQ12hOoFdgVMKDPVIOnOGJSV");
 
     $userotp=$_POST['userotp'];
 
